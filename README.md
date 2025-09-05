@@ -3,9 +3,10 @@ A data analysis project using the IBM HR Analytics dataset to explore employee s
 
 📊 Key Objectives
 Analyze average salary by department
+
 Identify employees due for promotion
+
 Calculate turnover rates by department
-Estimate and compare departmental budget utilization
 
 🛠️ Tools Used
 Python (Pandas, NumPy)

@@ -28,5 +28,7 @@ Features: Monthly income, department, attrition, years since last promotion, etc
 Departments with higher turnover may require closer HR attention.
 
 Several high-performing employees are overdue for promotion.
+
 IT and R&D departments have higher average compensation.
+
 Simulated budget analysis shows where optimization is needed.
